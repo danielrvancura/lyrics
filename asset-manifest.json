@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.939d1fca.chunk.css",
-  "main.js": "/static/js/main.cf2569ee.chunk.js",
-  "main.js.map": "/static/js/main.cf2569ee.chunk.js.map",
-  "static/js/1.d5b34004.chunk.js": "/static/js/1.d5b34004.chunk.js",
-  "static/js/1.d5b34004.chunk.js.map": "/static/js/1.d5b34004.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/spinner.gif": "/static/media/spinner.97727b84.gif",
-  "static/css/main.939d1fca.chunk.css.map": "/static/css/main.939d1fca.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.805e9315bcd67bce13b37665316fa5fb.js": "/precache-manifest.805e9315bcd67bce13b37665316fa5fb.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/lyrics/static/css/main.939d1fca.chunk.css",
+  "main.js": "/lyrics/static/js/main.5d3ec2cf.chunk.js",
+  "main.js.map": "/lyrics/static/js/main.5d3ec2cf.chunk.js.map",
+  "static/js/1.d5b34004.chunk.js": "/lyrics/static/js/1.d5b34004.chunk.js",
+  "static/js/1.d5b34004.chunk.js.map": "/lyrics/static/js/1.d5b34004.chunk.js.map",
+  "runtime~main.js": "/lyrics/static/js/runtime~main.9a645642.js",
+  "runtime~main.js.map": "/lyrics/static/js/runtime~main.9a645642.js.map",
+  "static/media/spinner.gif": "/lyrics/static/media/spinner.97727b84.gif",
+  "static/css/main.939d1fca.chunk.css.map": "/lyrics/static/css/main.939d1fca.chunk.css.map",
+  "index.html": "/lyrics/index.html",
+  "precache-manifest.0ead502f70f98606e24595206f98b47a.js": "/lyrics/precache-manifest.0ead502f70f98606e24595206f98b47a.js",
+  "service-worker.js": "/lyrics/service-worker.js"
 }
